@@ -1,0 +1,7 @@
+*{
+  border: solid black 1px;
+}
+.btn {
+  display: flex;
+  justify-content:flex-end; 
+}
