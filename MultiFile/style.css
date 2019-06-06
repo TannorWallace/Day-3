@@ -5,7 +5,7 @@
   position: relative;
 } */
 
-i, h3{
+i, h3,.uno{
   color:white;
 }
 
@@ -25,4 +25,7 @@ h3,h4,h5{
 h6{
   
   text-align: right;
+}
+button{
+  align-items: center;
 }
