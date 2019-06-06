@@ -1,5 +1,5 @@
 /* *{
-  border: solid black 1px;
+  : solid black 1px;
 } */
 /* .btn {
   position: relative;
@@ -29,3 +29,6 @@ h6{
 /* button{
   align-items: center;
 } */
+.newi{
+  color:black;
+}
